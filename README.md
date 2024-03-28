@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nastydroid
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Open source and personal projects
 - 📫 How to reach me sopadefemi@outlook.com
 
